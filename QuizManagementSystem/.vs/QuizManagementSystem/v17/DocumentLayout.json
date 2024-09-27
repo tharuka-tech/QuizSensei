@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|c:\\users\\lenovo\\pictures\\project\\quizmanagementsystem\\quizmanagementsystem\\studentquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\studentquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\registationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\registationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\registationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\registationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\studentquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\studentquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\updatequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\updatequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\view\u0026delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\view\u0026delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\updatequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\updatequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\view\u0026delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\view\u0026delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\adminquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\adminquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\adminquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\adminquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacher_uc\\adminquestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacher_uc\\adminquestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\quizmanagementsystem\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4940CC-F677-4B61-B513-EC728F9DD421}|QuizManagementSystem\\QuizManagementSystem.csproj|solutionrelative:quizmanagementsystem\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studentQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\studentQuiz.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\studentQuiz.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\studentQuiz.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\studentQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:14:58.285Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\studentQuiz.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\studentQuiz.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\studentQuiz.cs",
+              "RelativeToolTip": "QuizManagementSystem\\studentQuiz.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAmwBcBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:23:49.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\adminDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.cs",
+              "RelativeToolTip": "QuizManagementSystem\\adminDashboard.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:41:37.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\registationForm.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\registationForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\registationForm.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\registationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:39:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\registationForm.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\registationForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\registationForm.cs",
+              "RelativeToolTip": "QuizManagementSystem\\registationForm.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:34:44.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "teacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\teacherDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\teacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:36:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "teacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\teacherDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.cs",
+              "RelativeToolTip": "QuizManagementSystem\\teacherDashboard.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAALQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:31:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\adminDashboard.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\adminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:17:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Form1.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAswOMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:05:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:32:33.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateQuestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:36:45.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "View\u0026Delete.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:56:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\UpdateQuestion.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAwwCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:24:38.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View\u0026Delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\View\u0026Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:51:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:05:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminQuestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\adminQuestion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.cs [Design]",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\adminQuestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:35:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Form1.Designer.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAswDkBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:19:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminQuestion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.Designer.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Teacher_UC\\adminQuestion.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Teacher_UC\\adminQuestion.Designer.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Teacher_UC\\adminQuestion.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:52:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "teacherDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\teacherDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\teacherDashboard.Designer.cs",
+              "RelativeToolTip": "QuizManagementSystem\\teacherDashboard.Designer.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAewAUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:41:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\Program.cs",
+              "RelativeToolTip": "QuizManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:32:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "adminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "QuizManagementSystem\\adminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Pictures\\project\\QuizManagementSystem\\QuizManagementSystem\\adminDashboard.Designer.cs",
+              "RelativeToolTip": "QuizManagementSystem\\adminDashboard.Designer.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAEwEIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:28:48.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
